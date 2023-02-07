@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![![Screenshot 2023-02-07 at 09-44-16 Four Card Feature](https://user-images.githubusercontent.com/116254117/217160290-1c82de81-7253-4e02-8d1a-7d1ec9eafcc4.png)
-](./screenshot.jpg)
+![Screenshot 2023-02-07 at 09-44-16 Four Card Feature](https://user-images.githubusercontent.com/116254117/217160290-1c82de81-7253-4e02-8d1a-7d1ec9eafcc4.png)
+(./screenshot.jpg)
 
 ### Links
 
